@@ -1,6 +1,7 @@
-
+google-adds.yaml
 ag-sa-seahorse-2-key.json
 **/.DS_Store
+.env
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
